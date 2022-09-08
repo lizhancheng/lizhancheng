@@ -1,4 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizhancheng&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![lizhancheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizhancheng&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizhancheng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lizhancheng/lizhancheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
